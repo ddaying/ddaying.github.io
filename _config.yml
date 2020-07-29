@@ -96,11 +96,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "고정훈"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "-"
+  location         : "서울/광진구"
+  email            : "ddaying@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
